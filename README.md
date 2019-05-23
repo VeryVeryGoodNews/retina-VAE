@@ -1,2 +1,1 @@
-# retina-VAE
-retina-VAE
+# rvae
